@@ -1,6 +1,6 @@
 package lexer
 
-import "monkey/token"
+import "github.com/johanneshn/interpreter-in-go/token"
 
 type Lexer struct {
 	input        string
